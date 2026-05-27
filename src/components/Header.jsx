@@ -3,8 +3,7 @@ export default function Header() {
     <header id="header" className="header d-flex align-items-center sticky-top">
       <div className="container position-relative d-flex align-items-center justify-content-between">
         <a href="#hero" className="logo d-flex align-items-center me-auto me-xl-0">
-          <img src="/assets/img/logo.png" alt="" />
-          <h1 className="sitename">JELLY</h1>
+          <img src="/assets/img/logo.jpg" alt="" style={{"width" : "70px;"}} />
         </a>
 
         <nav id="navmenu" className="navmenu">
