@@ -8,7 +8,7 @@ export default function About() {
               <div className="image-main">
                 <img
                   src="/assets/img/about/about-5.webp"
-                  alt="BANDRINO team collaborating on a technology strategy"
+                  alt="JELLY team collaborating on a technology strategy"
                   className="img-fluid"
                   loading="lazy"
                 />
@@ -50,7 +50,7 @@ export default function About() {
               <h2>Innovating for Your Success Through Technology</h2>
 
               <p className="lead-text">
-                BANDRINO is a technology consulting and software development company helping businesses grow through
+                JELLY is a technology consulting and software development company helping businesses grow through
                 smart, scalable, and future-ready digital solutions.
               </p>
 
@@ -128,7 +128,7 @@ export default function About() {
                   </div>
                   <div className="text">
                     <span>Call Us Today</span>
-                    <a href="tel:+40358630588">+40 358 630 588</a>
+                    <a href="tel:+40358630588">+1 5312124015</a>
                   </div>
                 </div>
               </div>

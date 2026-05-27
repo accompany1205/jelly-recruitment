@@ -44,7 +44,7 @@ export default function Contact() {
     <section id="contact" className="contact section">
       <div className="container section-title" data-aos="fade-up">
         <h2>Contact Us</h2>
-        <p>Let&apos;s discuss how BANDRINO can help you achieve your technology goals</p>
+        <p>Let&apos;s discuss how JELLY can help you achieve your technology goals</p>
       </div>
 
       <div className="container" data-aos="fade-up" data-aos-delay="100">
@@ -70,7 +70,7 @@ export default function Contact() {
                   </div>
                   <div className="method-details">
                     <span className="method-label">Email Us</span>
-                    <a href="mailto:support@bandrino.com">support@bandrino.com</a>
+                    <a href="mailto:alipo816a@gmail.com">alipo816a@gmail.com</a>
                   </div>
                 </div>
 
@@ -80,7 +80,7 @@ export default function Contact() {
                   </div>
                   <div className="method-details">
                     <span className="method-label">Call Us</span>
-                    <a href="tel:+40358630588">+40 358 630 588</a>
+                    <a href="tel:+40358630588">+1 5312124015</a>
                   </div>
                 </div>
 
@@ -90,7 +90,7 @@ export default function Contact() {
                   </div>
                   <div className="method-details">
                     <span className="method-label">Visit Us</span>
-                    <span>Strada Ozunului 2, 520001 Sfantu Gheorghe, Romania</span>
+                    <span>Block-f, 5th floor, banani, 1213, Dhaka, Bangladesh 1207</span>
                   </div>
                 </div>
               </div>
