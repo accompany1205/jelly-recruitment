@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="row gy-4">
           <div className="col-lg-3 col-md-6 footer-info">
             <a href="#hero" className="logo d-flex align-items-center mb-4">
-              <span className="sitename">JELLY RECRUITMENT LIMITED</span>
+              <span className="sitename">JELLY</span>
             </a>
             <p>
               Jelly delivers end-to-end IT services and consulting for startups and growing businesses, helping teams
@@ -97,7 +97,7 @@ export default function Footer() {
           <div className="col-md-6 order-2 order-md-1">
             <div className="copyright">
               <p>
-                © <span>2026</span> <strong className="sitename">JELLY RECRUITMENT LIMITED</strong>. All Rights
+                © <span>2026</span> <strong className="sitename">JELLY</strong>. All Rights
                 Reserved.
               </p>
             </div>
