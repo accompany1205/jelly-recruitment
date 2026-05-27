@@ -3,7 +3,7 @@ import { Autoplay, Pagination } from 'swiper/modules'
 
 const testimonials = [
   {
-    text: 'JELLY transformed our legacy systems into a modern, cloud-based platform. Their expertise and professionalism exceeded our expectations.',
+    text: 'Jelly Recruitment Limited transformed our legacy systems into a modern, cloud-based platform. Their expertise and professionalism exceeded our expectations.',
     name: 'Jennifer Martinez',
     role: 'CTO, FinanceFlow Inc.',
     image: '/assets/img/person/person-f-2.webp',
