@@ -9,7 +9,7 @@ const testimonials = [
     image: '/assets/img/person/person-f-2.webp',
   },
   {
-    text: 'The mobile app delivered by JELLY increased our user engagement by over 300%. The team was responsive, creative, and delivered on time.',
+    text: 'The mobile app delivered by Jelly Recruitment Limited increased our user engagement by over 300%. The team was responsive, creative, and delivered on time.',
     name: 'Robert Chang',
     role: 'CEO, RetailPlus',
     image: '/assets/img/person/person-m-5.webp',
@@ -21,7 +21,7 @@ const testimonials = [
     image: '/assets/img/person/person-f-9.webp',
   },
   {
-    text: 'JELLY felt like an extension of our internal team. Clear communication, strong technical leadership, and excellent delivery.',
+    text: 'Jelly Recruitment Limited felt like an extension of our internal team. Clear communication, strong technical leadership, and excellent delivery.',
     name: 'James Mitchell',
     role: 'Product Lead, InnovateNow',
     image: '/assets/img/person/person-m-11.webp',
@@ -62,7 +62,7 @@ export default function Testimonials() {
     <section id="testimonials" className="testimonials section">
       <div className="container section-title" data-aos="fade-up">
         <h2>Client Success</h2>
-        <p>What our clients say about working with JELLY</p>
+        <p>What our clients say about working with Jelly Recruitment Limited</p>
       </div>
 
       <div className="container" data-aos="fade-up" data-aos-delay="100">
@@ -86,7 +86,7 @@ export default function Testimonials() {
 
                 <p>
                   We take pride in long-term partnerships and measurable outcomes. Here&apos;s what our clients say about
-                  collaborating with JELLY.
+                  collaborating with Jelly Recruitment Limited.
                 </p>
 
                 <a href="#contact" className="btn-view-all">

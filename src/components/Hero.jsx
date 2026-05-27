@@ -15,7 +15,7 @@ export default function Hero() {
               </h1>
 
               <p className="hero-text" data-aos="fade-up" data-aos-delay="350">
-                At <strong>JELLY</strong>, we help businesses harness technology to solve real
+                At <strong>Jelly Recruitment Limited</strong>, we help businesses harness technology to solve real
                 challenges, streamline operations, and accelerate sustainable growth. Your trusted partner for digital
                 transformation, software development, and IT strategy.
               </p>

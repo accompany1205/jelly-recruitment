@@ -7,10 +7,10 @@ export default function Footer() {
         <div className="row gy-4">
           <div className="col-lg-3 col-md-6 footer-info">
             <a href="#hero" className="logo d-flex align-items-center mb-4">
-              <span className="sitename">JELLY</span>
+              <span className="sitename">Jelly Recruitment Limited</span>
             </a>
             <p>
-              Jelly delivers end-to-end IT services and consulting for startups and growing businesses, helping teams
+              Jelly Recruitment Limited delivers end-to-end IT services and consulting for startups and growing businesses, helping teams
               scale through smart technology and strategic guidance.
             </p>
           </div>
@@ -84,7 +84,7 @@ export default function Footer() {
           <div className="col-lg-3 col-md-6">
             <div className="footer-newsletter">
               <h4>Stay Updated</h4>
-              <p>Subscribe to receive insights, technology trends, and updates from the JELLY team.</p>
+              <p>Subscribe to receive insights, technology trends, and updates from the Jelly Recruitment Limited team.</p>
 
               <EmailForm placeholder="Your Email Address" successMessage="Thank you for subscribing!" />
             </div>
@@ -97,7 +97,7 @@ export default function Footer() {
           <div className="col-md-6 order-2 order-md-1">
             <div className="copyright">
               <p>
-                © <span>2026</span> <strong className="sitename">JELLY</strong>. All Rights
+                © <span>2026</span> <strong className="sitename">Jelly Recruitment Limited</strong>. All Rights
                 Reserved.
               </p>
             </div>

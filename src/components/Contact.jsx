@@ -44,7 +44,7 @@ export default function Contact() {
     <section id="contact" className="contact section">
       <div className="container section-title" data-aos="fade-up">
         <h2>Contact Us</h2>
-        <p>Let&apos;s discuss how JELLY can help you achieve your technology goals</p>
+        <p>Let&apos;s discuss how Jelly Recruitment Limited can help you achieve your technology goals</p>
       </div>
 
       <div className="container" data-aos="fade-up" data-aos-delay="100">

@@ -46,7 +46,7 @@ export default function WhyUs() {
               <h2>Transform Your Vision Into Digital Excellence</h2>
 
               <p className="description">
-                JELLY combines technical expertise with business insight to deliver solutions that create real,
+                Jelly Recruitment Limited combines technical expertise with business insight to deliver solutions that create real,
                 measurable impact. We don&apos;t just build software — we build long-term partnerships.
               </p>
 

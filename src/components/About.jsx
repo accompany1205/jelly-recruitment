@@ -8,7 +8,7 @@ export default function About() {
               <div className="image-main">
                 <img
                   src="/assets/img/about/about-5.webp"
-                  alt="JELLY team collaborating on a technology strategy"
+                  alt="Jelly Recruitment Limited team collaborating on a technology strategy"
                   className="img-fluid"
                   loading="lazy"
                 />
